@@ -52,12 +52,6 @@ export function FraudCheckerPage() {
   const [historyFilterRisk, setHistoryFilterRisk] = useState<string>('all');
   const [historySearchQuery, setHistorySearchQuery] = useState('');
 
-  // Sample phone numbers for testing
-  const samplePhones = [
-    { label: 'Sample 1', number: '01712345678' },
-    { label: 'Sample 2', number: '01898765432' },
-    { label: 'Sample 3', number: '01911223344' }
-  ];
 
   const loadHistory = async () => {
     setIsHistoryLoading(true);
@@ -249,24 +243,8 @@ export function FraudCheckerPage() {
                 </div>
               </div>
 
-              {/* Sample Numbers & Quick Help */}
-              <div className="flex flex-wrap items-center justify-between gap-2 pt-1 text-xs text-slate-500 dark:text-slate-400">
-                <div className="flex items-center gap-1.5 flex-wrap">
-                  <span className="font-medium">Quick test:</span>
-                  {samplePhones.map(sp => (
-                    <button
-                      key={sp.number}
-                      type="button"
-                      onClick={() => {
-                        setPhoneNumber(sp.number);
-                        handleSearchSubmit(undefined, sp.number);
-                      }}
-                      className="px-2 py-0.5 bg-slate-100 dark:bg-slate-800 hover:bg-emerald-50 dark:hover:bg-emerald-950/40 text-slate-700 dark:text-slate-300 hover:text-emerald-700 dark:hover:text-emerald-400 rounded-md border border-slate-200 dark:border-slate-700 font-mono text-[11px] transition"
-                    >
-                      {sp.number}
-                    </button>
-                  ))}
-                </div>
+              {/* Quick Format Help */}
+              <div className="flex items-center justify-end gap-1 pt-1 text-xs text-slate-500 dark:text-slate-400">
                 <div className="flex items-center gap-1 text-[11px]">
                   <Info className="w-3.5 h-3.5 text-slate-400" />
                   <span>Supports 017..., 88017..., +88017... formats</span>
