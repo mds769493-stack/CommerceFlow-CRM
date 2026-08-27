@@ -1,0 +1,660 @@
+[
+  {
+    "id": "fc_1787827594985_5h65x",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01625266365",
+    "operator": "Airtel",
+    "total": 0,
+    "delivered": 0,
+    "cancelled": 0,
+    "successRate": 0,
+    "riskLevel": "UNKNOWN",
+    "timestamp": "2026-08-27T10:46:34.985Z",
+    "reportSnapshot": {
+      "phone": "01625266365",
+      "operator": "Airtel",
+      "timestamp": "2026-08-27T10:46:34.985Z",
+      "overall": {
+        "total": 0,
+        "delivered": 0,
+        "cancelled": 0,
+        "successRate": 0,
+        "cancelRate": 0,
+        "riskLevel": "UNKNOWN",
+        "genuineProbability": 0,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 3,
+        "deliveredOrders": 0,
+        "cancelledOrders": 1,
+        "webCancelCount": 0,
+        "isNewCustomer": false
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 487
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 923
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "success",
+          "message": "RedX OpenAPI connected (Store: Mirpur - 11). No historical parcels found for this phone on RedX.",
+          "responseTimeMs": 873
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "Carrybee authentication failed",
+          "responseTimeMs": 267
+        }
+      }
+    },
+    "internalId": "fc_1787827594985_5h65x"
+  },
+  {
+    "id": "fc_1787827596135_fv609",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01625266365",
+    "operator": "Airtel",
+    "total": 0,
+    "delivered": 0,
+    "cancelled": 0,
+    "successRate": 0,
+    "riskLevel": "UNKNOWN",
+    "timestamp": "2026-08-27T10:46:36.135Z",
+    "reportSnapshot": {
+      "phone": "01625266365",
+      "operator": "Airtel",
+      "timestamp": "2026-08-27T10:46:36.135Z",
+      "overall": {
+        "total": 0,
+        "delivered": 0,
+        "cancelled": 0,
+        "successRate": 0,
+        "cancelRate": 0,
+        "riskLevel": "UNKNOWN",
+        "genuineProbability": 0,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 3,
+        "deliveredOrders": 0,
+        "cancelledOrders": 1,
+        "webCancelCount": 0,
+        "isNewCustomer": false
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 489
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 2132
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "success",
+          "message": "RedX OpenAPI connected (Store: Mirpur - 11). No historical parcels found for this phone on RedX.",
+          "responseTimeMs": 956
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "Carrybee authentication failed",
+          "responseTimeMs": 233
+        }
+      }
+    },
+    "internalId": "fc_1787827596135_fv609"
+  },
+  {
+    "id": "fc_1787827647195_uxg3o",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01625266365",
+    "operator": "Airtel",
+    "total": 0,
+    "delivered": 0,
+    "cancelled": 0,
+    "successRate": 0,
+    "riskLevel": "UNKNOWN",
+    "timestamp": "2026-08-27T10:47:27.195Z",
+    "reportSnapshot": {
+      "phone": "01625266365",
+      "operator": "Airtel",
+      "timestamp": "2026-08-27T10:47:27.195Z",
+      "overall": {
+        "total": 0,
+        "delivered": 0,
+        "cancelled": 0,
+        "successRate": 0,
+        "cancelRate": 0,
+        "riskLevel": "UNKNOWN",
+        "genuineProbability": 0,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 3,
+        "deliveredOrders": 0,
+        "cancelledOrders": 1,
+        "webCancelCount": 0,
+        "isNewCustomer": false
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 507
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 1871
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "success",
+          "message": "RedX OpenAPI connected (Store: Mirpur - 11). No historical parcels found for this phone on RedX.",
+          "responseTimeMs": 923
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "Carrybee authentication failed",
+          "responseTimeMs": 253
+        }
+      }
+    },
+    "internalId": "fc_1787827647195_uxg3o"
+  },
+  {
+    "id": "fc_1787827647388_br0nb",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01625266365",
+    "operator": "Airtel",
+    "total": 0,
+    "delivered": 0,
+    "cancelled": 0,
+    "successRate": 0,
+    "riskLevel": "UNKNOWN",
+    "timestamp": "2026-08-27T10:47:27.388Z",
+    "reportSnapshot": {
+      "phone": "01625266365",
+      "operator": "Airtel",
+      "timestamp": "2026-08-27T10:47:27.388Z",
+      "overall": {
+        "total": 0,
+        "delivered": 0,
+        "cancelled": 0,
+        "successRate": 0,
+        "cancelRate": 0,
+        "riskLevel": "UNKNOWN",
+        "genuineProbability": 0,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 3,
+        "deliveredOrders": 0,
+        "cancelledOrders": 1,
+        "webCancelCount": 0,
+        "isNewCustomer": false
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 481
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 1884
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "success",
+          "message": "RedX OpenAPI connected (Store: Mirpur - 11). No historical parcels found for this phone on RedX.",
+          "responseTimeMs": 780
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "Carrybee authentication failed",
+          "responseTimeMs": 242
+        }
+      }
+    },
+    "internalId": "fc_1787827647388_br0nb"
+  },
+  {
+    "id": "fc_1787830232343_09m4u",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 10,
+    "delivered": 9,
+    "cancelled": 1,
+    "successRate": 90,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-27T11:30:32.343Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-27T11:30:32.343Z",
+      "overall": {
+        "total": 10,
+        "delivered": 9,
+        "cancelled": 1,
+        "successRate": 90,
+        "cancelRate": 10,
+        "riskLevel": "LOW",
+        "genuineProbability": 90,
+        "fraudProbability": 10
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 959
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 10,
+          "delivered": 9,
+          "cancelled": 1,
+          "successRate": 90,
+          "cancelRate": 10,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 1069
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "success",
+          "message": "RedX OpenAPI connected (Store: Mirpur - 11). No historical parcels found for this phone on RedX.",
+          "responseTimeMs": 1067
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "Carrybee authentication failed",
+          "responseTimeMs": 849
+        }
+      }
+    },
+    "internalId": "fc_1787830232343_09m4u"
+  },
+  {
+    "id": "fc_1787830268418_5co10",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01625266365",
+    "operator": "Airtel",
+    "total": 0,
+    "delivered": 0,
+    "cancelled": 0,
+    "successRate": 0,
+    "riskLevel": "UNKNOWN",
+    "timestamp": "2026-08-27T11:31:08.418Z",
+    "reportSnapshot": {
+      "phone": "01625266365",
+      "operator": "Airtel",
+      "timestamp": "2026-08-27T11:31:08.418Z",
+      "overall": {
+        "total": 0,
+        "delivered": 0,
+        "cancelled": 0,
+        "successRate": 0,
+        "cancelRate": 0,
+        "riskLevel": "UNKNOWN",
+        "genuineProbability": 0,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 3,
+        "deliveredOrders": 0,
+        "cancelledOrders": 1,
+        "webCancelCount": 0,
+        "isNewCustomer": false
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 475
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 1078
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "success",
+          "message": "RedX OpenAPI connected (Store: Mirpur - 11). No historical parcels found for this phone on RedX.",
+          "responseTimeMs": 880
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "Carrybee authentication failed",
+          "responseTimeMs": 369
+        }
+      }
+    },
+    "internalId": "fc_1787830268418_5co10"
+  },
+  {
+    "id": "fc_1787830268751_gyfgk",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01625266365",
+    "operator": "Airtel",
+    "total": 0,
+    "delivered": 0,
+    "cancelled": 0,
+    "successRate": 0,
+    "riskLevel": "UNKNOWN",
+    "timestamp": "2026-08-27T11:31:08.751Z",
+    "reportSnapshot": {
+      "phone": "01625266365",
+      "operator": "Airtel",
+      "timestamp": "2026-08-27T11:31:08.751Z",
+      "overall": {
+        "total": 0,
+        "delivered": 0,
+        "cancelled": 0,
+        "successRate": 0,
+        "cancelRate": 0,
+        "riskLevel": "UNKNOWN",
+        "genuineProbability": 0,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 3,
+        "deliveredOrders": 0,
+        "cancelledOrders": 1,
+        "webCancelCount": 0,
+        "isNewCustomer": false
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 441
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 1269
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "success",
+          "message": "RedX OpenAPI connected (Store: Mirpur - 11). No historical parcels found for this phone on RedX.",
+          "responseTimeMs": 819
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "Carrybee authentication failed",
+          "responseTimeMs": 353
+        }
+      }
+    },
+    "internalId": "fc_1787830268751_gyfgk"
+  }
+]

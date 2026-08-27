@@ -1,0 +1,144 @@
+{
+  "entities": {
+    "FollowUp": {
+      "title": "FollowUp",
+      "description": "A follow-up record for an order",
+      "type": "object",
+      "properties": {
+        "orderId": { "type": "string", "description": "The merchant's order ID" },
+        "consignmentId": { "type": "string", "description": "Pathao tracking ID" },
+        "phone": { "type": "string", "description": "Customer phone number" },
+        "product": { "type": "string", "description": "Product details" },
+        "total": { "type": "number", "description": "Total order amount" },
+        "priority": { "type": "string", "enum": ["High", "Medium", "Low", ""] },
+        "date": { "type": "string", "format": "date-time" },
+        "status": { "type": "string", "description": "Current status of the order" },
+        "call": { "type": "string", "description": "Call status" },
+        "callCount": { "type": "number" },
+        "note": { "type": "string" },
+        "riderCall": { "type": "string" },
+        "riderNote": { "type": "string" },
+        "history": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "status": { "type": "string" },
+              "call": { "type": "string" },
+              "date": { "type": "string" },
+              "note": { "type": "string" },
+              "updatedAt": { "type": "string", "format": "date-time" }
+            }
+          }
+        },
+        "userId": { "type": "string", "description": "Auth UID of the owner" },
+        "createdAt": { "type": "string", "format": "date-time" },
+        "updatedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["orderId", "userId", "createdAt", "updatedAt"]
+    },
+    "Order": {
+      "title": "Order",
+      "description": "A customer order",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "invoice": { "type": "string" },
+        "customer": { "type": "string" },
+        "phone": { "type": "string" },
+        "items": { 
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": { "type": "string" },
+              "qty": { "type": "number" }
+            }
+          }
+        },
+        "code": { "type": "string" },
+        "total": { "type": "number" },
+        "delivery": { "type": "number" },
+        "advance": { "type": "number" },
+        "created_at": { "type": "string" },
+        "courier_date": { "type": "string" },
+        "status": { "type": "string", "enum": ["Pending", "Delivered", "Returned"] },
+        "createdAt": { "type": "string", "format": "date-time" },
+        "updatedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["userId", "invoice", "customer", "phone", "items", "total", "status", "createdAt", "updatedAt"]
+    },
+    "Product": {
+      "title": "Product",
+      "description": "An inventory product",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "code": { "type": "string" },
+        "name": { "type": "string" },
+        "purchasePrice": { "type": "number" },
+        "saleAmount": { "type": "number" },
+        "createdAt": { "type": "string", "format": "date-time" },
+        "updatedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["userId", "code", "name", "purchasePrice", "saleAmount", "createdAt", "updatedAt"]
+    },
+    "CourierData": {
+      "title": "CourierData",
+      "description": "Information from courier service",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "merchantOrderId": { "type": "string" },
+        "collectedAmount": { "type": "number" },
+        "totalFee": { "type": "number" },
+        "status": { "type": "string" },
+        "updatedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["userId", "merchantOrderId", "collectedAmount", "totalFee", "status", "updatedAt"]
+    },
+    "Expense": {
+      "title": "Expense",
+      "description": "A business expense",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "description": { "type": "string" },
+        "amount": { "type": "number" },
+        "usdAmount": { "type": "number" },
+        "dollarRate": { "type": "number" },
+        "group": { "type": "string", "enum": ["Daily", "Dollar", "Monthly"] },
+        "date": { "type": "string", "format": "date" },
+        "createdAt": { "type": "string", "format": "date-time" },
+        "updatedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["userId", "amount", "group", "date", "createdAt", "updatedAt"]
+    }
+  },
+  "firestore": {
+    "/followUps/{followUpId}": {
+      "schema": "FollowUp",
+      "description": "Collection of all follow-up records"
+    },
+    "/orders/{orderId}": {
+      "schema": "Order",
+      "description": "Collection of all customer orders"
+    },
+    "/products/{productId}": {
+      "schema": "Product",
+      "description": "Collection of inventory products"
+    },
+    "/courierData/{courierDataId}": {
+      "schema": "CourierData",
+      "description": "Collection of courier reports"
+    },
+    "/expenses/{expenseId}": {
+      "schema": "Expense",
+      "description": "Collection of business expenses"
+    },
+    "/settings/{settingsId}": {
+      "schema": "AppSettings",
+      "description": "User configuration settings"
+    }
+  }
+}

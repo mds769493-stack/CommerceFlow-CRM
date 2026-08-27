@@ -1,0 +1,5395 @@
+[
+  {
+    "id": "fc_1787555391492_x7erw",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01712345678",
+    "operator": "Grameenphone",
+    "total": 0,
+    "delivered": 0,
+    "cancelled": 0,
+    "successRate": 0,
+    "riskLevel": "UNKNOWN",
+    "timestamp": "2026-08-24T07:09:51.492Z",
+    "reportSnapshot": {
+      "phone": "01712345678",
+      "operator": "Grameenphone",
+      "timestamp": "2026-08-24T07:09:51.492Z",
+      "overall": {
+        "total": 0,
+        "delivered": 0,
+        "cancelled": 0,
+        "successRate": 0,
+        "cancelRate": 0,
+        "riskLevel": "UNKNOWN",
+        "genuineProbability": 0,
+        "fraudProbability": 0
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "Steadfast API responded with HTTP 404: {\"message\":\"Resource not found.\"}",
+          "responseTimeMs": 229
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "Pathao authentication failed (HTTP 400): {\"message\":\"The user credentials were incorrect\",\"type\":\"error\",\"code\":400}\n",
+          "responseTimeMs": 1100
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787555391492_x7erw"
+  },
+  {
+    "id": "fc_1787555415638_49di8",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 0,
+    "delivered": 0,
+    "cancelled": 0,
+    "successRate": 0,
+    "riskLevel": "UNKNOWN",
+    "timestamp": "2026-08-24T07:10:15.638Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T07:10:15.638Z",
+      "overall": {
+        "total": 0,
+        "delivered": 0,
+        "cancelled": 0,
+        "successRate": 0,
+        "cancelRate": 0,
+        "riskLevel": "UNKNOWN",
+        "genuineProbability": 0,
+        "fraudProbability": 0
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "Steadfast API responded with HTTP 404: {\"message\":\"Resource not found.\"}",
+          "responseTimeMs": 182
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "Pathao authentication failed (HTTP 400): {\"message\":\"The user credentials were incorrect\",\"type\":\"error\",\"code\":400}\n",
+          "responseTimeMs": 284
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787555415638_49di8"
+  },
+  {
+    "id": "fc_1787555758425_3r4z0",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 0,
+    "delivered": 0,
+    "cancelled": 0,
+    "successRate": 0,
+    "riskLevel": "UNKNOWN",
+    "timestamp": "2026-08-24T07:15:58.424Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T07:15:58.424Z",
+      "overall": {
+        "total": 0,
+        "delivered": 0,
+        "cancelled": 0,
+        "successRate": 0,
+        "cancelRate": 0,
+        "riskLevel": "UNKNOWN",
+        "genuineProbability": 0,
+        "fraudProbability": 0
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 221
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "Incorrect Pathao username or password.",
+          "responseTimeMs": 752
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 1
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787555758425_3r4z0"
+  },
+  {
+    "id": "fc_1787555893017_e7573",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 0,
+    "delivered": 0,
+    "cancelled": 0,
+    "successRate": 0,
+    "riskLevel": "UNKNOWN",
+    "timestamp": "2026-08-24T07:18:13.017Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T07:18:13.017Z",
+      "overall": {
+        "total": 0,
+        "delivered": 0,
+        "cancelled": 0,
+        "successRate": 0,
+        "cancelRate": 0,
+        "riskLevel": "UNKNOWN",
+        "genuineProbability": 0,
+        "fraudProbability": 0
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 184
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "Incorrect Pathao username or password.",
+          "responseTimeMs": 335
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787555893017_e7573"
+  },
+  {
+    "id": "fc_1787555908277_dy3jr",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 0,
+    "delivered": 0,
+    "cancelled": 0,
+    "successRate": 0,
+    "riskLevel": "UNKNOWN",
+    "timestamp": "2026-08-24T07:18:28.276Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T07:18:28.276Z",
+      "overall": {
+        "total": 0,
+        "delivered": 0,
+        "cancelled": 0,
+        "successRate": 0,
+        "cancelRate": 0,
+        "riskLevel": "UNKNOWN",
+        "genuineProbability": 0,
+        "fraudProbability": 0
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 172
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "Incorrect Pathao username or password.",
+          "responseTimeMs": 657
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787555908277_dy3jr"
+  },
+  {
+    "id": "fc_1787555936247_j1269",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 0,
+    "delivered": 0,
+    "cancelled": 0,
+    "successRate": 0,
+    "riskLevel": "UNKNOWN",
+    "timestamp": "2026-08-24T07:18:56.247Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T07:18:56.247Z",
+      "overall": {
+        "total": 0,
+        "delivered": 0,
+        "cancelled": 0,
+        "successRate": 0,
+        "cancelRate": 0,
+        "riskLevel": "UNKNOWN",
+        "genuineProbability": 0,
+        "fraudProbability": 0
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 157
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "Incorrect Pathao username or password.",
+          "responseTimeMs": 843
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787555936247_j1269"
+  },
+  {
+    "id": "fc_1787556345788_2mu3x",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 1,
+    "delivered": 1,
+    "cancelled": 0,
+    "successRate": 100,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-24T07:25:45.788Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T07:25:45.788Z",
+      "overall": {
+        "total": 1,
+        "delivered": 1,
+        "cancelled": 0,
+        "successRate": 100,
+        "cancelRate": 0,
+        "riskLevel": "LOW",
+        "genuineProbability": 100,
+        "fraudProbability": 0
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 222
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 1,
+          "delivered": 1,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 3752
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787556345788_2mu3x"
+  },
+  {
+    "id": "fc_1787556656060_mwcz6",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 1,
+    "delivered": 1,
+    "cancelled": 0,
+    "successRate": 100,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-24T07:30:56.060Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T07:30:56.060Z",
+      "overall": {
+        "total": 1,
+        "delivered": 1,
+        "cancelled": 0,
+        "successRate": 100,
+        "cancelRate": 0,
+        "riskLevel": "LOW",
+        "genuineProbability": 100,
+        "fraudProbability": 0
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 274
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 1,
+          "delivered": 1,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 148
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787556656060_mwcz6"
+  },
+  {
+    "id": "fc_1787556667178_zeek3",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 1,
+    "delivered": 1,
+    "cancelled": 0,
+    "successRate": 100,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-24T07:31:07.178Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T07:31:07.178Z",
+      "overall": {
+        "total": 1,
+        "delivered": 1,
+        "cancelled": 0,
+        "successRate": 100,
+        "cancelRate": 0,
+        "riskLevel": "LOW",
+        "genuineProbability": 100,
+        "fraudProbability": 0
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 178
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 1,
+          "delivered": 1,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 1016
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787556667178_zeek3"
+  },
+  {
+    "id": "fc_1787556723672_m2cso",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 1,
+    "delivered": 1,
+    "cancelled": 0,
+    "successRate": 100,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-24T07:32:03.672Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T07:32:03.672Z",
+      "overall": {
+        "total": 1,
+        "delivered": 1,
+        "cancelled": 0,
+        "successRate": 100,
+        "cancelRate": 0,
+        "riskLevel": "LOW",
+        "genuineProbability": 100,
+        "fraudProbability": 0
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 221
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 1,
+          "delivered": 1,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 506
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787556723672_m2cso"
+  },
+  {
+    "id": "fc_1787556733465_aerrn",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 1,
+    "delivered": 1,
+    "cancelled": 0,
+    "successRate": 100,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-24T07:32:13.465Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T07:32:13.465Z",
+      "overall": {
+        "total": 1,
+        "delivered": 1,
+        "cancelled": 0,
+        "successRate": 100,
+        "cancelRate": 0,
+        "riskLevel": "LOW",
+        "genuineProbability": 100,
+        "fraudProbability": 0
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 181
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 1,
+          "delivered": 1,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 1454
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787556733465_aerrn"
+  },
+  {
+    "id": "fc_1787556737380_4j9df",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01898765432",
+    "operator": "Robi",
+    "total": 1,
+    "delivered": 1,
+    "cancelled": 0,
+    "successRate": 100,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-24T07:32:17.380Z",
+    "reportSnapshot": {
+      "phone": "01898765432",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T07:32:17.380Z",
+      "overall": {
+        "total": 1,
+        "delivered": 1,
+        "cancelled": 0,
+        "successRate": 100,
+        "cancelRate": 0,
+        "riskLevel": "LOW",
+        "genuineProbability": 100,
+        "fraudProbability": 0
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 161
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 1,
+          "delivered": 1,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 216
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787556737380_4j9df"
+  },
+  {
+    "id": "fc_1787556738826_50zj0",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01898765432",
+    "operator": "Robi",
+    "total": 1,
+    "delivered": 1,
+    "cancelled": 0,
+    "successRate": 100,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-24T07:32:18.826Z",
+    "reportSnapshot": {
+      "phone": "01898765432",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T07:32:18.826Z",
+      "overall": {
+        "total": 1,
+        "delivered": 1,
+        "cancelled": 0,
+        "successRate": 100,
+        "cancelRate": 0,
+        "riskLevel": "LOW",
+        "genuineProbability": 100,
+        "fraudProbability": 0
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 131
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 1,
+          "delivered": 1,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 585
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787556738826_50zj0"
+  },
+  {
+    "id": "fc_1787556775780_u8hz9",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01856205470",
+    "operator": "Robi",
+    "total": 1,
+    "delivered": 1,
+    "cancelled": 0,
+    "successRate": 100,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-24T07:32:55.780Z",
+    "reportSnapshot": {
+      "phone": "01856205470",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T07:32:55.780Z",
+      "overall": {
+        "total": 1,
+        "delivered": 1,
+        "cancelled": 0,
+        "successRate": 100,
+        "cancelRate": 0,
+        "riskLevel": "LOW",
+        "genuineProbability": 100,
+        "fraudProbability": 0
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 211
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 1,
+          "delivered": 1,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 157
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787556775780_u8hz9"
+  },
+  {
+    "id": "fc_1787556865785_4hcb0",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 1,
+    "delivered": 1,
+    "cancelled": 0,
+    "successRate": 100,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-24T07:34:25.785Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T07:34:25.785Z",
+      "overall": {
+        "total": 1,
+        "delivered": 1,
+        "cancelled": 0,
+        "successRate": 100,
+        "cancelRate": 0,
+        "riskLevel": "LOW",
+        "genuineProbability": 100,
+        "fraudProbability": 0
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 191
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 1,
+          "delivered": 1,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 149
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787556865785_4hcb0"
+  },
+  {
+    "id": "fc_1787557035999_q382h",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 1,
+    "delivered": 1,
+    "cancelled": 0,
+    "successRate": 100,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-24T07:37:15.999Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T07:37:15.999Z",
+      "overall": {
+        "total": 1,
+        "delivered": 1,
+        "cancelled": 0,
+        "successRate": 100,
+        "cancelRate": 0,
+        "riskLevel": "LOW",
+        "genuineProbability": 100,
+        "fraudProbability": 0
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 308
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 1,
+          "delivered": 1,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 1900
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787557035999_q382h"
+  },
+  {
+    "id": "fc_1787557066634_wz57j",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 1,
+    "delivered": 1,
+    "cancelled": 0,
+    "successRate": 100,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-24T07:37:46.634Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T07:37:46.634Z",
+      "overall": {
+        "total": 1,
+        "delivered": 1,
+        "cancelled": 0,
+        "successRate": 100,
+        "cancelRate": 0,
+        "riskLevel": "LOW",
+        "genuineProbability": 100,
+        "fraudProbability": 0
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 162
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 1,
+          "delivered": 1,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 162
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787557066634_wz57j"
+  },
+  {
+    "id": "fc_1787557953858_f6jcs",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 1,
+    "delivered": 1,
+    "cancelled": 0,
+    "successRate": 100,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-24T07:52:33.858Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T07:52:33.858Z",
+      "overall": {
+        "total": 1,
+        "delivered": 1,
+        "cancelled": 0,
+        "successRate": 100,
+        "cancelRate": 0,
+        "riskLevel": "LOW",
+        "genuineProbability": 100,
+        "fraudProbability": 0
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 252
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 1,
+          "delivered": 1,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 2787
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787557953858_f6jcs"
+  },
+  {
+    "id": "fc_1787558348637_s9zso",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 1,
+    "delivered": 1,
+    "cancelled": 0,
+    "successRate": 100,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-24T07:59:08.637Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T07:59:08.637Z",
+      "overall": {
+        "total": 1,
+        "delivered": 1,
+        "cancelled": 0,
+        "successRate": 100,
+        "cancelRate": 0,
+        "riskLevel": "LOW",
+        "genuineProbability": 100,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 412
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 1,
+          "delivered": 1,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 1957
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787558348637_s9zso"
+  },
+  {
+    "id": "fc_1787558386192_dto5a",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 0,
+    "delivered": 0,
+    "cancelled": 0,
+    "successRate": 0,
+    "riskLevel": "UNKNOWN",
+    "timestamp": "2026-08-24T07:59:46.192Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T07:59:46.192Z",
+      "overall": {
+        "total": 0,
+        "delivered": 0,
+        "cancelled": 0,
+        "successRate": 0,
+        "cancelRate": 0,
+        "riskLevel": "UNKNOWN",
+        "genuineProbability": 0,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "disabled",
+          "message": "Steadfast checker is disabled in settings",
+          "responseTimeMs": 0
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "disabled",
+          "message": "Pathao checker is disabled in settings",
+          "responseTimeMs": 0
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787558386192_dto5a"
+  },
+  {
+    "id": "fc_1787558390689_rkj0w",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 0,
+    "delivered": 0,
+    "cancelled": 0,
+    "successRate": 0,
+    "riskLevel": "UNKNOWN",
+    "timestamp": "2026-08-24T07:59:50.689Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T07:59:50.689Z",
+      "overall": {
+        "total": 0,
+        "delivered": 0,
+        "cancelled": 0,
+        "successRate": 0,
+        "cancelRate": 0,
+        "riskLevel": "UNKNOWN",
+        "genuineProbability": 0,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "disabled",
+          "message": "Steadfast checker is disabled in settings",
+          "responseTimeMs": 0
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "disabled",
+          "message": "Pathao checker is disabled in settings",
+          "responseTimeMs": 0
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787558390689_rkj0w"
+  },
+  {
+    "id": "fc_1787558393493_ec6vh",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 0,
+    "delivered": 0,
+    "cancelled": 0,
+    "successRate": 0,
+    "riskLevel": "UNKNOWN",
+    "timestamp": "2026-08-24T07:59:53.493Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T07:59:53.493Z",
+      "overall": {
+        "total": 0,
+        "delivered": 0,
+        "cancelled": 0,
+        "successRate": 0,
+        "cancelRate": 0,
+        "riskLevel": "UNKNOWN",
+        "genuineProbability": 0,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "disabled",
+          "message": "Steadfast checker is disabled in settings",
+          "responseTimeMs": 0
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "disabled",
+          "message": "Pathao checker is disabled in settings",
+          "responseTimeMs": 0
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787558393493_ec6vh"
+  },
+  {
+    "id": "fc_1787558400805_4k93s",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 1,
+    "delivered": 1,
+    "cancelled": 0,
+    "successRate": 100,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-24T08:00:00.805Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T08:00:00.805Z",
+      "overall": {
+        "total": 1,
+        "delivered": 1,
+        "cancelled": 0,
+        "successRate": 100,
+        "cancelRate": 0,
+        "riskLevel": "LOW",
+        "genuineProbability": 100,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "disabled",
+          "message": "Steadfast checker is disabled in settings",
+          "responseTimeMs": 0
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 1,
+          "delivered": 1,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 1944
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787558400805_4k93s"
+  },
+  {
+    "id": "fc_1787558425398_68fxc",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01898765432",
+    "operator": "Robi",
+    "total": 1,
+    "delivered": 1,
+    "cancelled": 0,
+    "successRate": 100,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-24T08:00:25.398Z",
+    "reportSnapshot": {
+      "phone": "01898765432",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T08:00:25.398Z",
+      "overall": {
+        "total": 1,
+        "delivered": 1,
+        "cancelled": 0,
+        "successRate": 100,
+        "cancelRate": 0,
+        "riskLevel": "LOW",
+        "genuineProbability": 100,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "disabled",
+          "message": "Steadfast checker is disabled in settings",
+          "responseTimeMs": 0
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 1,
+          "delivered": 1,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 5326
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787558425398_68fxc"
+  },
+  {
+    "id": "fc_1787558659841_qoyym",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 0,
+    "delivered": 0,
+    "cancelled": 0,
+    "successRate": 0,
+    "riskLevel": "UNKNOWN",
+    "timestamp": "2026-08-24T08:04:19.841Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T08:04:19.841Z",
+      "overall": {
+        "total": 0,
+        "delivered": 0,
+        "cancelled": 0,
+        "successRate": 0,
+        "cancelRate": 0,
+        "riskLevel": "UNKNOWN",
+        "genuineProbability": 0,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "disabled",
+          "message": "Steadfast checker is disabled in settings",
+          "responseTimeMs": 0
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "Pathao query failed: {\"code\":4001,\"error_description\":\"The resource owner or authorization server denied the request.\",\"error\":\"access_denied\"}",
+          "responseTimeMs": 5502
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787558659841_qoyym"
+  },
+  {
+    "id": "fc_1787558725103_du5lq",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01911223344",
+    "operator": "Banglalink",
+    "total": 0,
+    "delivered": 0,
+    "cancelled": 0,
+    "successRate": 0,
+    "riskLevel": "UNKNOWN",
+    "timestamp": "2026-08-24T08:05:25.103Z",
+    "reportSnapshot": {
+      "phone": "01911223344",
+      "operator": "Banglalink",
+      "timestamp": "2026-08-24T08:05:25.103Z",
+      "overall": {
+        "total": 0,
+        "delivered": 0,
+        "cancelled": 0,
+        "successRate": 0,
+        "cancelRate": 0,
+        "riskLevel": "UNKNOWN",
+        "genuineProbability": 0,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "disabled",
+          "message": "Steadfast checker is disabled in settings",
+          "responseTimeMs": 0
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "Pathao query failed: {\"code\":4001,\"error_description\":\"The resource owner or authorization server denied the request.\",\"error\":\"access_denied\"}",
+          "responseTimeMs": 3431
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787558725103_du5lq"
+  },
+  {
+    "id": "fc_1787558895284_fxwy3",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 0,
+    "delivered": 0,
+    "cancelled": 0,
+    "successRate": 0,
+    "riskLevel": "UNKNOWN",
+    "timestamp": "2026-08-24T08:08:15.284Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T08:08:15.284Z",
+      "overall": {
+        "total": 0,
+        "delivered": 0,
+        "cancelled": 0,
+        "successRate": 0,
+        "cancelRate": 0,
+        "riskLevel": "UNKNOWN",
+        "genuineProbability": 0,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "disabled",
+          "message": "Steadfast checker is disabled in settings",
+          "responseTimeMs": 0
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "Pathao access denied: Authorization denied by Pathao server (Code 4001). Please check account credentials in Settings.",
+          "responseTimeMs": 3615
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787558895284_fxwy3"
+  },
+  {
+    "id": "fc_1787558908990_e5oqd",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 0,
+    "delivered": 0,
+    "cancelled": 0,
+    "successRate": 0,
+    "riskLevel": "UNKNOWN",
+    "timestamp": "2026-08-24T08:08:28.990Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T08:08:28.990Z",
+      "overall": {
+        "total": 0,
+        "delivered": 0,
+        "cancelled": 0,
+        "successRate": 0,
+        "cancelRate": 0,
+        "riskLevel": "UNKNOWN",
+        "genuineProbability": 0,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "disabled",
+          "message": "Steadfast checker is disabled in settings",
+          "responseTimeMs": 0
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "Pathao access denied: Authorization denied by Pathao server (Code 4001). Please check account credentials in Settings.",
+          "responseTimeMs": 4103
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787558908990_e5oqd"
+  },
+  {
+    "id": "fc_1787559163029_5cdud",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 0,
+    "delivered": 0,
+    "cancelled": 0,
+    "successRate": 0,
+    "riskLevel": "UNKNOWN",
+    "timestamp": "2026-08-24T08:12:43.029Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T08:12:43.029Z",
+      "overall": {
+        "total": 0,
+        "delivered": 0,
+        "cancelled": 0,
+        "successRate": 0,
+        "cancelRate": 0,
+        "riskLevel": "UNKNOWN",
+        "genuineProbability": 0,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "disabled",
+          "message": "Steadfast checker is disabled in settings",
+          "responseTimeMs": 0
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "Pathao access denied: Authorization denied by Pathao server (Code 4001). Please check account credentials in Settings.",
+          "responseTimeMs": 4139
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787559163029_5cdud"
+  },
+  {
+    "id": "fc_1787559186851_yc5s4",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 0,
+    "delivered": 0,
+    "cancelled": 0,
+    "successRate": 0,
+    "riskLevel": "UNKNOWN",
+    "timestamp": "2026-08-24T08:13:06.851Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T08:13:06.851Z",
+      "overall": {
+        "total": 0,
+        "delivered": 0,
+        "cancelled": 0,
+        "successRate": 0,
+        "cancelRate": 0,
+        "riskLevel": "UNKNOWN",
+        "genuineProbability": 0,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "disabled",
+          "message": "Steadfast checker is disabled in settings",
+          "responseTimeMs": 0
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "Pathao access denied: Authorization denied by Pathao server (Code 4001). Please check account credentials in Settings.",
+          "responseTimeMs": 4419
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787559186851_yc5s4"
+  },
+  {
+    "id": "fc_1787559201573_g5eez",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 0,
+    "delivered": 0,
+    "cancelled": 0,
+    "successRate": 0,
+    "riskLevel": "UNKNOWN",
+    "timestamp": "2026-08-24T08:13:21.573Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T08:13:21.573Z",
+      "overall": {
+        "total": 0,
+        "delivered": 0,
+        "cancelled": 0,
+        "successRate": 0,
+        "cancelRate": 0,
+        "riskLevel": "UNKNOWN",
+        "genuineProbability": 0,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "disabled",
+          "message": "Steadfast checker is disabled in settings",
+          "responseTimeMs": 0
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "Pathao access denied: Authorization denied by Pathao server (Code 4001). Please check account credentials in Settings.",
+          "responseTimeMs": 3523
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787559201573_g5eez"
+  },
+  {
+    "id": "fc_1787559208550_52npb",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 0,
+    "delivered": 0,
+    "cancelled": 0,
+    "successRate": 0,
+    "riskLevel": "UNKNOWN",
+    "timestamp": "2026-08-24T08:13:28.550Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T08:13:28.550Z",
+      "overall": {
+        "total": 0,
+        "delivered": 0,
+        "cancelled": 0,
+        "successRate": 0,
+        "cancelRate": 0,
+        "riskLevel": "UNKNOWN",
+        "genuineProbability": 0,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "disabled",
+          "message": "Steadfast checker is disabled in settings",
+          "responseTimeMs": 0
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "Pathao access denied: Authorization denied by Pathao server (Code 4001). Please check account credentials in Settings.",
+          "responseTimeMs": 3353
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787559208550_52npb"
+  },
+  {
+    "id": "fc_1787559238507_mkwbf",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 0,
+    "delivered": 0,
+    "cancelled": 0,
+    "successRate": 0,
+    "riskLevel": "UNKNOWN",
+    "timestamp": "2026-08-24T08:13:58.507Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T08:13:58.507Z",
+      "overall": {
+        "total": 0,
+        "delivered": 0,
+        "cancelled": 0,
+        "successRate": 0,
+        "cancelRate": 0,
+        "riskLevel": "UNKNOWN",
+        "genuineProbability": 0,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 331
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "Pathao access denied: Authorization denied by Pathao server (Code 4001). Please check account credentials in Settings.",
+          "responseTimeMs": 3670
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787559238507_mkwbf"
+  },
+  {
+    "id": "fc_1787559486920_dxbpm",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 0,
+    "delivered": 0,
+    "cancelled": 0,
+    "successRate": 0,
+    "riskLevel": "UNKNOWN",
+    "timestamp": "2026-08-24T08:18:06.920Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T08:18:06.920Z",
+      "overall": {
+        "total": 0,
+        "delivered": 0,
+        "cancelled": 0,
+        "successRate": 0,
+        "cancelRate": 0,
+        "riskLevel": "UNKNOWN",
+        "genuineProbability": 0,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 1365
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous delivery records found on Pathao",
+          "responseTimeMs": 4286
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787559486920_dxbpm"
+  },
+  {
+    "id": "fc_1787559584783_ascys",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 0,
+    "delivered": 0,
+    "cancelled": 0,
+    "successRate": 0,
+    "riskLevel": "UNKNOWN",
+    "timestamp": "2026-08-24T08:19:44.783Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T08:19:44.783Z",
+      "overall": {
+        "total": 0,
+        "delivered": 0,
+        "cancelled": 0,
+        "successRate": 0,
+        "cancelRate": 0,
+        "riskLevel": "UNKNOWN",
+        "genuineProbability": 0,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 480
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous delivery records found on Pathao",
+          "responseTimeMs": 3982
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787559584783_ascys"
+  },
+  {
+    "id": "fc_1787560100912_99f9g",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 10,
+    "delivered": 9,
+    "cancelled": 1,
+    "successRate": 90,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-24T08:28:20.912Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-24T08:28:20.912Z",
+      "overall": {
+        "total": 10,
+        "delivered": 9,
+        "cancelled": 1,
+        "successRate": 90,
+        "cancelRate": 10,
+        "riskLevel": "LOW",
+        "genuineProbability": 90,
+        "fraudProbability": 10
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 1590
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 10,
+          "delivered": 9,
+          "cancelled": 1,
+          "successRate": 90,
+          "cancelRate": 10,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 1779
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 1
+        }
+      }
+    },
+    "internalId": "fc_1787560100912_99f9g"
+  },
+  {
+    "id": "fc_1787638084557_ictox",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 10,
+    "delivered": 9,
+    "cancelled": 1,
+    "successRate": 90,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-25T06:08:04.557Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-25T06:08:04.557Z",
+      "overall": {
+        "total": 10,
+        "delivered": 9,
+        "cancelled": 1,
+        "successRate": 90,
+        "cancelRate": 10,
+        "riskLevel": "LOW",
+        "genuineProbability": 90,
+        "fraudProbability": 10
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 3309
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 10,
+          "delivered": 9,
+          "cancelled": 1,
+          "successRate": 90,
+          "cancelRate": 10,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 777
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 1
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787638084557_ictox"
+  },
+  {
+    "id": "fc_1787640075249_w9cnj",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01712345678",
+    "operator": "Grameenphone",
+    "total": 386,
+    "delivered": 221,
+    "cancelled": 165,
+    "successRate": 57.3,
+    "riskLevel": "MEDIUM",
+    "timestamp": "2026-08-25T06:41:15.248Z",
+    "reportSnapshot": {
+      "phone": "01712345678",
+      "operator": "Grameenphone",
+      "timestamp": "2026-08-25T06:41:15.248Z",
+      "overall": {
+        "total": 386,
+        "delivered": 221,
+        "cancelled": 165,
+        "successRate": 57.3,
+        "cancelRate": 42.7,
+        "riskLevel": "MEDIUM",
+        "genuineProbability": 57.3,
+        "fraudProbability": 42.7
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 1760
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 386,
+          "delivered": 221,
+          "cancelled": 165,
+          "successRate": 57.3,
+          "cancelRate": 42.7,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 121
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787640075249_w9cnj"
+  },
+  {
+    "id": "fc_1787641687704_1v0cf",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 10,
+    "delivered": 9,
+    "cancelled": 1,
+    "successRate": 90,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-25T07:08:07.704Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-25T07:08:07.704Z",
+      "overall": {
+        "total": 10,
+        "delivered": 9,
+        "cancelled": 1,
+        "successRate": 90,
+        "cancelRate": 10,
+        "riskLevel": "LOW",
+        "genuineProbability": 90,
+        "fraudProbability": 10
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 2322
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 10,
+          "delivered": 9,
+          "cancelled": 1,
+          "successRate": 90,
+          "cancelRate": 10,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 795
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787641687704_1v0cf"
+  },
+  {
+    "id": "fc_1787641776419_hi4qr",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 10,
+    "delivered": 9,
+    "cancelled": 1,
+    "successRate": 90,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-25T07:09:36.419Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-25T07:09:36.419Z",
+      "overall": {
+        "total": 10,
+        "delivered": 9,
+        "cancelled": 1,
+        "successRate": 90,
+        "cancelRate": 10,
+        "riskLevel": "LOW",
+        "genuineProbability": 90,
+        "fraudProbability": 10
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": "No previous records found on Steadfast",
+          "responseTimeMs": 2212
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 10,
+          "delivered": 9,
+          "cancelled": 1,
+          "successRate": 90,
+          "cancelRate": 10,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 786
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787641776419_hi4qr"
+  },
+  {
+    "id": "fc_1787642044036_bnw78",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01829421720",
+    "operator": "Robi",
+    "total": 21,
+    "delivered": 20,
+    "cancelled": 1,
+    "successRate": 95.2,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-25T07:14:04.036Z",
+    "reportSnapshot": {
+      "phone": "01829421720",
+      "operator": "Robi",
+      "timestamp": "2026-08-25T07:14:04.036Z",
+      "overall": {
+        "total": 21,
+        "delivered": 20,
+        "cancelled": 1,
+        "successRate": 95.2,
+        "cancelRate": 4.8,
+        "riskLevel": "LOW",
+        "genuineProbability": 95.2,
+        "fraudProbability": 4.8
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 11,
+          "delivered": 11,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 1780
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 10,
+          "delivered": 9,
+          "cancelled": 1,
+          "successRate": 90,
+          "cancelRate": 10,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 100
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787642044036_bnw78"
+  },
+  {
+    "id": "fc_1787642092478_l868c",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01610333221",
+    "operator": "Airtel",
+    "total": 9,
+    "delivered": 9,
+    "cancelled": 0,
+    "successRate": 100,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-25T07:14:52.478Z",
+    "reportSnapshot": {
+      "phone": "01610333221",
+      "operator": "Airtel",
+      "timestamp": "2026-08-25T07:14:52.478Z",
+      "overall": {
+        "total": 9,
+        "delivered": 9,
+        "cancelled": 0,
+        "successRate": 100,
+        "cancelRate": 0,
+        "riskLevel": "LOW",
+        "genuineProbability": 100,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 5,
+          "delivered": 5,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 218
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 4,
+          "delivered": 4,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 92
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787642092478_l868c"
+  },
+  {
+    "id": "fc_1787642151941_pws9d",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01830717999",
+    "operator": "Robi",
+    "total": 41,
+    "delivered": 37,
+    "cancelled": 4,
+    "successRate": 90.2,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-25T07:15:51.941Z",
+    "reportSnapshot": {
+      "phone": "01830717999",
+      "operator": "Robi",
+      "timestamp": "2026-08-25T07:15:51.941Z",
+      "overall": {
+        "total": 41,
+        "delivered": 37,
+        "cancelled": 4,
+        "successRate": 90.2,
+        "cancelRate": 9.8,
+        "riskLevel": "LOW",
+        "genuineProbability": 90.2,
+        "fraudProbability": 9.8
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 17,
+          "delivered": 14,
+          "cancelled": 3,
+          "successRate": 82.4,
+          "cancelRate": 17.6,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 257
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 24,
+          "delivered": 23,
+          "cancelled": 1,
+          "successRate": 95.8,
+          "cancelRate": 4.2,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 212
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787642151941_pws9d"
+  },
+  {
+    "id": "fc_1787642251528_mt9hk",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01774253785",
+    "operator": "Grameenphone",
+    "total": 41,
+    "delivered": 41,
+    "cancelled": 0,
+    "successRate": 100,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-25T07:17:31.528Z",
+    "reportSnapshot": {
+      "phone": "01774253785",
+      "operator": "Grameenphone",
+      "timestamp": "2026-08-25T07:17:31.528Z",
+      "overall": {
+        "total": 41,
+        "delivered": 41,
+        "cancelled": 0,
+        "successRate": 100,
+        "cancelRate": 0,
+        "riskLevel": "LOW",
+        "genuineProbability": 100,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 20,
+          "delivered": 20,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 238
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 21,
+          "delivered": 21,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 293
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "RedX API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787642251528_mt9hk"
+  },
+  {
+    "id": "fc_1787642566540_l50bw",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01774253785",
+    "operator": "Grameenphone",
+    "total": 41,
+    "delivered": 41,
+    "cancelled": 0,
+    "successRate": 100,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-25T07:22:46.540Z",
+    "reportSnapshot": {
+      "phone": "01774253785",
+      "operator": "Grameenphone",
+      "timestamp": "2026-08-25T07:22:46.540Z",
+      "overall": {
+        "total": 41,
+        "delivered": 41,
+        "cancelled": 0,
+        "successRate": 100,
+        "cancelRate": 0,
+        "riskLevel": "LOW",
+        "genuineProbability": 100,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 20,
+          "delivered": 20,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 330
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 21,
+          "delivered": 21,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 98
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+          "responseTimeMs": 1105
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787642566540_l50bw"
+  },
+  {
+    "id": "fc_1787642604880_4lcri",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01774253785",
+    "operator": "Grameenphone",
+    "total": 41,
+    "delivered": 41,
+    "cancelled": 0,
+    "successRate": 100,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-25T07:23:24.880Z",
+    "reportSnapshot": {
+      "phone": "01774253785",
+      "operator": "Grameenphone",
+      "timestamp": "2026-08-25T07:23:24.880Z",
+      "overall": {
+        "total": 41,
+        "delivered": 41,
+        "cancelled": 0,
+        "successRate": 100,
+        "cancelRate": 0,
+        "riskLevel": "LOW",
+        "genuineProbability": 100,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 20,
+          "delivered": 20,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 156
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 21,
+          "delivered": 21,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 94
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 315
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787642604880_4lcri"
+  },
+  {
+    "id": "fc_1787642609195_u5iis",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01774253785",
+    "operator": "Grameenphone",
+    "total": 41,
+    "delivered": 41,
+    "cancelled": 0,
+    "successRate": 100,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-25T07:23:29.195Z",
+    "reportSnapshot": {
+      "phone": "01774253785",
+      "operator": "Grameenphone",
+      "timestamp": "2026-08-25T07:23:29.195Z",
+      "overall": {
+        "total": 41,
+        "delivered": 41,
+        "cancelled": 0,
+        "successRate": 100,
+        "cancelRate": 0,
+        "riskLevel": "LOW",
+        "genuineProbability": 100,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 20,
+          "delivered": 20,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 122
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 21,
+          "delivered": 21,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 1327
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 106
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787642609195_u5iis"
+  },
+  {
+    "id": "fc_1787642623483_ih8vw",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01712345678",
+    "operator": "Grameenphone",
+    "total": 424,
+    "delivered": 224,
+    "cancelled": 200,
+    "successRate": 52.8,
+    "riskLevel": "MEDIUM",
+    "timestamp": "2026-08-25T07:23:43.483Z",
+    "reportSnapshot": {
+      "phone": "01712345678",
+      "operator": "Grameenphone",
+      "timestamp": "2026-08-25T07:23:43.483Z",
+      "overall": {
+        "total": 424,
+        "delivered": 224,
+        "cancelled": 200,
+        "successRate": 52.8,
+        "cancelRate": 47.2,
+        "riskLevel": "MEDIUM",
+        "genuineProbability": 52.8,
+        "fraudProbability": 47.2
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 38,
+          "delivered": 3,
+          "cancelled": 35,
+          "successRate": 7.9,
+          "cancelRate": 92.1,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 536
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 386,
+          "delivered": 221,
+          "cancelled": 165,
+          "successRate": 57.3,
+          "cancelRate": 42.7,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 909
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 335
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787642623483_ih8vw"
+  },
+  {
+    "id": "fc_1787642627765_r7ich",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01898765432",
+    "operator": "Robi",
+    "total": 2,
+    "delivered": 0,
+    "cancelled": 2,
+    "successRate": 0,
+    "riskLevel": "HIGH",
+    "timestamp": "2026-08-25T07:23:47.765Z",
+    "reportSnapshot": {
+      "phone": "01898765432",
+      "operator": "Robi",
+      "timestamp": "2026-08-25T07:23:47.765Z",
+      "overall": {
+        "total": 2,
+        "delivered": 0,
+        "cancelled": 2,
+        "successRate": 0,
+        "cancelRate": 100,
+        "riskLevel": "HIGH",
+        "genuineProbability": 0,
+        "fraudProbability": 100
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 1,
+          "delivered": 0,
+          "cancelled": 1,
+          "successRate": 0,
+          "cancelRate": 100,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 155
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 1,
+          "delivered": 0,
+          "cancelled": 1,
+          "successRate": 0,
+          "cancelRate": 100,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 1026
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 106
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787642627765_r7ich"
+  },
+  {
+    "id": "fc_1787642630878_y8824",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01911223344",
+    "operator": "Banglalink",
+    "total": 1,
+    "delivered": 0,
+    "cancelled": 1,
+    "successRate": 0,
+    "riskLevel": "HIGH",
+    "timestamp": "2026-08-25T07:23:50.878Z",
+    "reportSnapshot": {
+      "phone": "01911223344",
+      "operator": "Banglalink",
+      "timestamp": "2026-08-25T07:23:50.878Z",
+      "overall": {
+        "total": 1,
+        "delivered": 0,
+        "cancelled": 1,
+        "successRate": 0,
+        "cancelRate": 100,
+        "riskLevel": "HIGH",
+        "genuineProbability": 0,
+        "fraudProbability": 100
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 1,
+          "delivered": 0,
+          "cancelled": 1,
+          "successRate": 0,
+          "cancelRate": 100,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 133
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 1079
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 107
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787642630878_y8824"
+  },
+  {
+    "id": "fc_1787642666784_15iqq",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01716026309",
+    "operator": "Grameenphone",
+    "total": 7,
+    "delivered": 7,
+    "cancelled": 0,
+    "successRate": 100,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-25T07:24:26.784Z",
+    "reportSnapshot": {
+      "phone": "01716026309",
+      "operator": "Grameenphone",
+      "timestamp": "2026-08-25T07:24:26.784Z",
+      "overall": {
+        "total": 7,
+        "delivered": 7,
+        "cancelled": 0,
+        "successRate": 100,
+        "cancelRate": 0,
+        "riskLevel": "LOW",
+        "genuineProbability": 100,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 1,
+          "delivered": 1,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 179
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 6,
+          "delivered": 6,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 975
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": true,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 329
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787642666784_15iqq"
+  },
+  {
+    "id": "fc_1787644993557_ki4iy",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01716026309",
+    "operator": "Grameenphone",
+    "total": 7,
+    "delivered": 7,
+    "cancelled": 0,
+    "successRate": 100,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-25T08:03:13.557Z",
+    "reportSnapshot": {
+      "phone": "01716026309",
+      "operator": "Grameenphone",
+      "timestamp": "2026-08-25T08:03:13.557Z",
+      "overall": {
+        "total": 7,
+        "delivered": 7,
+        "cancelled": 0,
+        "successRate": 100,
+        "cancelRate": 0,
+        "riskLevel": "LOW",
+        "genuineProbability": 100,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 1,
+          "delivered": 1,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 760
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 6,
+          "delivered": 6,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 771
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "RedX Auth Error: Invalid Token!. Please update RedX credentials in settings.",
+          "responseTimeMs": 199
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787644993557_ki4iy"
+  },
+  {
+    "id": "fc_1787645044771_e6tks",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01716026309",
+    "operator": "Grameenphone",
+    "total": 7,
+    "delivered": 7,
+    "cancelled": 0,
+    "successRate": 100,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-25T08:04:04.771Z",
+    "reportSnapshot": {
+      "phone": "01716026309",
+      "operator": "Grameenphone",
+      "timestamp": "2026-08-25T08:04:04.771Z",
+      "overall": {
+        "total": 7,
+        "delivered": 7,
+        "cancelled": 0,
+        "successRate": 100,
+        "cancelRate": 0,
+        "riskLevel": "LOW",
+        "genuineProbability": 100,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 1,
+          "delivered": 1,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 268
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 6,
+          "delivered": 6,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 450
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "RedX Auth Error: Invalid Token!. Please update RedX credentials in settings.",
+          "responseTimeMs": 304
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787645044771_e6tks"
+  },
+  {
+    "id": "fc_1787645084035_6cvc4",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01716026309",
+    "operator": "Grameenphone",
+    "total": 7,
+    "delivered": 7,
+    "cancelled": 0,
+    "successRate": 100,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-25T08:04:44.035Z",
+    "reportSnapshot": {
+      "phone": "01716026309",
+      "operator": "Grameenphone",
+      "timestamp": "2026-08-25T08:04:44.035Z",
+      "overall": {
+        "total": 7,
+        "delivered": 7,
+        "cancelled": 0,
+        "successRate": 100,
+        "cancelRate": 0,
+        "riskLevel": "LOW",
+        "genuineProbability": 100,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 1,
+          "delivered": 1,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 219
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 6,
+          "delivered": 6,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 414
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "RedX Auth Error: Invalid Token!. Please update RedX credentials in settings.",
+          "responseTimeMs": 179
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787645084035_6cvc4"
+  },
+  {
+    "id": "fc_1787645110387_oj6xr",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01716026309",
+    "operator": "Grameenphone",
+    "total": 7,
+    "delivered": 7,
+    "cancelled": 0,
+    "successRate": 100,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-25T08:05:10.387Z",
+    "reportSnapshot": {
+      "phone": "01716026309",
+      "operator": "Grameenphone",
+      "timestamp": "2026-08-25T08:05:10.387Z",
+      "overall": {
+        "total": 7,
+        "delivered": 7,
+        "cancelled": 0,
+        "successRate": 100,
+        "cancelRate": 0,
+        "riskLevel": "LOW",
+        "genuineProbability": 100,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 1,
+          "delivered": 1,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 241
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 6,
+          "delivered": 6,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 813
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "RedX Auth Error: Invalid Token!. Please update RedX credentials in settings.",
+          "responseTimeMs": 174
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787645110387_oj6xr"
+  },
+  {
+    "id": "fc_1787645788704_2rahk",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01716026309",
+    "operator": "Grameenphone",
+    "total": 7,
+    "delivered": 7,
+    "cancelled": 0,
+    "successRate": 100,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-25T08:16:28.704Z",
+    "reportSnapshot": {
+      "phone": "01716026309",
+      "operator": "Grameenphone",
+      "timestamp": "2026-08-25T08:16:28.704Z",
+      "overall": {
+        "total": 7,
+        "delivered": 7,
+        "cancelled": 0,
+        "successRate": 100,
+        "cancelRate": 0,
+        "riskLevel": "LOW",
+        "genuineProbability": 100,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 1,
+          "delivered": 1,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 963
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 6,
+          "delivered": 6,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 808
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "RedX Auth Error: Invalid Token!. Please update RedX credentials in settings.",
+          "responseTimeMs": 1005
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787645788704_2rahk"
+  },
+  {
+    "id": "fc_1787645819135_tk1bb",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01716026309",
+    "operator": "Grameenphone",
+    "total": 7,
+    "delivered": 7,
+    "cancelled": 0,
+    "successRate": 100,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-25T08:16:59.135Z",
+    "reportSnapshot": {
+      "phone": "01716026309",
+      "operator": "Grameenphone",
+      "timestamp": "2026-08-25T08:16:59.135Z",
+      "overall": {
+        "total": 7,
+        "delivered": 7,
+        "cancelled": 0,
+        "successRate": 100,
+        "cancelRate": 0,
+        "riskLevel": "LOW",
+        "genuineProbability": 100,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 1,
+          "delivered": 1,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 243
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 6,
+          "delivered": 6,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 77
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "You are temporary blocked for abusing the service!",
+          "responseTimeMs": 786
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787645819135_tk1bb"
+  },
+  {
+    "id": "fc_1787645863159_ud8mu",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01716026309",
+    "operator": "Grameenphone",
+    "total": 7,
+    "delivered": 7,
+    "cancelled": 0,
+    "successRate": 100,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-25T08:17:43.159Z",
+    "reportSnapshot": {
+      "phone": "01716026309",
+      "operator": "Grameenphone",
+      "timestamp": "2026-08-25T08:17:43.159Z",
+      "overall": {
+        "total": 7,
+        "delivered": 7,
+        "cancelled": 0,
+        "successRate": 100,
+        "cancelRate": 0,
+        "riskLevel": "LOW",
+        "genuineProbability": 100,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 1,
+          "delivered": 1,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 289
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 6,
+          "delivered": 6,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 70
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "RedX Auth Error: Invalid Token!. Please update RedX credentials in settings.",
+          "responseTimeMs": 942
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787645863159_ud8mu"
+  },
+  {
+    "id": "fc_1787646008110_f01ih",
+    "userId": "user_b7pkjbf3d",
+    "phone": "01716026309",
+    "operator": "Grameenphone",
+    "total": 7,
+    "delivered": 7,
+    "cancelled": 0,
+    "successRate": 100,
+    "riskLevel": "LOW",
+    "timestamp": "2026-08-25T08:20:08.110Z",
+    "reportSnapshot": {
+      "phone": "01716026309",
+      "operator": "Grameenphone",
+      "timestamp": "2026-08-25T08:20:08.110Z",
+      "overall": {
+        "total": 7,
+        "delivered": 7,
+        "cancelled": 0,
+        "successRate": 100,
+        "cancelRate": 0,
+        "riskLevel": "LOW",
+        "genuineProbability": 100,
+        "fraudProbability": 0
+      },
+      "ourRecord": {
+        "totalOrders": 0,
+        "deliveredOrders": 0,
+        "cancelledOrders": 0,
+        "webCancelCount": 0,
+        "isNewCustomer": true
+      },
+      "couriers": {
+        "steadfast": {
+          "courier": "Steadfast",
+          "success": true,
+          "total": 1,
+          "delivered": 1,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 255
+        },
+        "pathao": {
+          "courier": "Pathao",
+          "success": true,
+          "total": 6,
+          "delivered": 6,
+          "cancelled": 0,
+          "successRate": 100,
+          "cancelRate": 0,
+          "status": "success",
+          "message": null,
+          "responseTimeMs": 78
+        },
+        "redx": {
+          "courier": "RedX",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "error",
+          "message": "RedX Auth Error: Invalid Token!. Please update RedX credentials in settings.",
+          "responseTimeMs": 919
+        },
+        "paperfly": {
+          "courier": "Paperfly",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Paperfly API credentials are not configured",
+          "responseTimeMs": 0
+        },
+        "carrybee": {
+          "courier": "Carrybee",
+          "success": false,
+          "total": 0,
+          "delivered": 0,
+          "cancelled": 0,
+          "successRate": 0,
+          "status": "unconfigured",
+          "message": "Carrybee API credentials are not configured",
+          "responseTimeMs": 0
+        }
+      }
+    },
+    "internalId": "fc_1787646008110_f01ih"
+  }
+]

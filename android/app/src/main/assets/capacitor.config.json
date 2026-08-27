@@ -1,0 +1,8 @@
+{
+	"appId": "com.commerceflow.app",
+	"appName": "CommerceFlow",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	}
+}

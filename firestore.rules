@@ -1,0 +1,22 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    // Check if the user is authenticated
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    // Match any document in any collection
+    match /{collection}/{documentId} {
+      // Allow read/write only if the authenticated user's ID matches the document's userId field or document ID prefix
+      allow read, write: if isSignedIn() && (
+        resource == null || 
+        resource.data.userId == request.auth.uid ||
+        request.resource.data.userId == request.auth.uid ||
+        documentId.startsWith(request.auth.uid)
+      );
+    }
+  }
+}

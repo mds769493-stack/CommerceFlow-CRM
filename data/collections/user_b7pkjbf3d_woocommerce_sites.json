@@ -1,0 +1,16 @@
+[
+  {
+    "id": "site_1787314342681_xsso9",
+    "userId": "user_b7pkjbf3d",
+    "name": "kidsnest",
+    "storeUrl": "https://kidsnest.xyz",
+    "consumerKey": "ck_391d02cf0eda5741bd3d50364affefd087d3204a",
+    "consumerSecret": "cs_0738a15e2e50fc13f02ef4c024c74d6c15cd17e7",
+    "status": "Connected",
+    "autoSyncInterval": "5m",
+    "createdAt": "2026-08-21T12:12:25.684Z",
+    "updatedAt": "2026-08-21T12:40:25.699Z",
+    "internalId": "site_1787314342681_xsso9",
+    "lastSyncAt": "2026-08-21T12:40:25.699Z"
+  }
+]

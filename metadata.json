@@ -1,0 +1,8 @@
+{
+  "name": "CommerceFlow",
+  "description": "Professional e-commerce and multi-channel order management system with Shopify and WooCommerce integrations, modular dedicated database storage (Web Orders, Order List, Products, Follow-ups, Expenses), and Courier Fraud Checker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
