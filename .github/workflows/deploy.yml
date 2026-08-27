@@ -3,25 +3,43 @@ name: Auto Build & Deploy
 on:
   push:
     branches: [ main, master ]
+  workflow_dispatch:
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Code
+      - name: 📥 Checkout Code
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
+      - name: ⚙️ Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: 'npm'
 
-      - name: Install Dependencies
-        run: npm ci
+      - name: 📦 Install Dependencies
+        run: npm ci || npm install --legacy-peer-deps
 
-      - name: Build Application
+      - name: 🏗️ Build Application
         run: npm run build
 
-      # Note: If you use cPanel FTP or SSH deployment, secrets (FTP_SERVER, FTP_USERNAME, FTP_PASSWORD) can be configured in GitHub Settings -> Secrets.
+      - name: 📁 Prepare Production Package
+        run: |
+          mkdir -p deploy_package
+          cp -r dist deploy_package/
+          cp -r server deploy_package/
+          cp package.json deploy_package/
+          mkdir -p deploy_package/tmp
+          touch deploy_package/tmp/restart.txt
+
+      - name: 🚀 Auto-Deploy via FTP to cPanel
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.CPANEL_FTP_SERVER }}
+          username: ${{ secrets.CPANEL_FTP_USERNAME }}
+          password: ${{ secrets.CPANEL_FTP_PASSWORD }}
+          local-dir: ./deploy_package/
+          server-dir: /project-root/
+          dangerous-clean-slate: false
